@@ -2,3 +2,4 @@
 
 - [Home](/)
 - [More Pages](more-pages.md)
+- [Deploy](deploy.md)
